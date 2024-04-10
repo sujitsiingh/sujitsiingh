@@ -83,7 +83,7 @@
         <span><strong>Javascript</strong></span>
     </td>
 </tr>
-<tr>
+<!-- <tr>
     <td align="left">
         <span><strong>ADDITIONAL</strong></span>
     </td>
@@ -91,7 +91,7 @@
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg"><br>
         <span><strong>Typescript</strong></span>
     </td>
-</tr>
+</tr> -->
 <tr>
     <td align="left">
         <span><strong>UI FRAMEWORK</strong></span>
@@ -109,14 +109,14 @@
     <td align="left">
         <span><strong>CSS FRAMEWORK</strong></span>
     </td>
-    <td align="center">
+<!--     <td align="center">
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg"><br>
         <span><strong>Bootstrap</strong></span>
-    </td>
-    <!-- <td align="center">
+    </td> -->
+    <td align="center">
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"><br>
         <span><strong>TailwindCSS</strong></span>
-    </td> -->
+    </td>
     <!-- <td align="center">
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/daisyUI.svg"><br>
         <span><strong>DaisyUI</strong></span>
@@ -142,7 +142,7 @@
 
 <div align="center">
 <table>
-<!-- <tr>
+<tr>
     <td align="left">
         <span><strong>SERVER SIDE RUNTIME</strong></span>
     </td>
@@ -150,7 +150,7 @@
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"><br>
         <span><strong>Node JS</strong></span>
     </td>
-</tr> -->
+</tr>
 <tr>
     <td align="left">
         <span><strong>DATABASE</strong><span>
