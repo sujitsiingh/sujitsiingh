@@ -1,4 +1,5 @@
 <h2>Welcome to my Github !👋</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
     ❤️ Programming | 🖤 Cinema | 💙 Cricket
 </div>
@@ -202,109 +203,36 @@
         <span><strong>Tor</strong></span>
     </td> -->
 </tr>
-<!-- <tr>
-    <td align="center">
-        <img height="64px" width="64px" alt="Gitlab" src="https://cdn.svgporn.com/logos/gitlab.svg"><br>
-        <span><strong>Gitlab</strong></span>
-    </td>
-    <td align="center">
-        <img height="64px" width="64px" alt="Github" src="https://cdn.svgporn.com/logos/github-octocat.svg"><br>
-        <span><strong>Github</strong></span>
-    </td>
-    <td align="center">
-        <img height="64px" width="64px" alt="Bitbucket" src="https://cdn.svgporn.com/logos/bitbucket.svg"><br>
-        <span><strong>Bitbucket</strong></span>
-    </td>
-    <td align="center">
-        <img height="64px" width="64px" alt="Vim" src="https://cdn.svgporn.com/logos/vim.svg"><br>
-        <span><strong>Vim</strong></span>
-    </td>
-    <td align="center">
-        <img height="64px" width="64px" alt="Signal" src="https://cdn.svgporn.com/logos/signal.svg"><br>
-        <span><strong>Signal</strong></span>
-    </td>
-    <td align="center">
-        <img height="64px" width="64px" alt="UBlock" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/UBlock_Origin.svg/1024px-UBlock_Origin.svg.png?20230326050327"><br>
-        <span><strong>UBLock</strong></span>
-    </td>
-</tr> -->
 </table>
 </div>
 
 <!-- * ## **Competitive Coding Handles**: -->
 
-<!-- <div align="center">
-<table>
-<tr>
-    <td align="center">
-    <a href="">
-        <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white">
-    </a>
-    <a href="https://codeforces.com/profile/sujitsiingh">
-        <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
-    </a>
-    <a href="https://www.hackerearth.com/@sujitsiingh">
-        <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue">
-    </a>
-    <a href="https://www.hackerrank.com/sujitsiingh">
-        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-    </a>
-    <a href="https://leetcode.com/sujitsiingh/">
-        <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
-    </a>
-    <a href="https://www.codingninjas.com/studio/profile/sujitsiingh">
-        <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white">
-    </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860">
-    </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green">
-    </a>
-    <a href="https://auth.geeksforgeeks.org/user/sujitsiingh">
-        <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c">
-    </a>
-    <a href="">
-        <img src="https://atrating.baoshuo.dev/rating?username=sujitsiingh">
-    </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/-spoj-337AB7?logo=spoj&logoColor=white&style=for-the-badge">
-    </a>
-    <a>
-    </a>
-    </td>
-</tr>
-</table>
-</div> -->
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
 
-<!-- ## Some of my targets :
-- At least delve into AI and ML and write an Open Source guide on it with the latest beaming and untouched technologies something like using only c++ or rust for it instead of python.
-- Cybersecurity and Ethical Hacking literate.
-- My own programming language.
-- A simulator of old hardware devices with visual demonstration.
-- Build a AAA Game using own character design and graphic engines.
-- Launch a Best Static library website. -->
-
-<!-- ## Some stats about me :
-
+<!--icons and links-->
 <p align="center">
-        <img alt="Github Streak" title="Streak Stats" src="https://streak-stats.demolab.com?user=sujitsiingh&theme=gotham&border_radius=5.0&date_format=j%20M%5B%20Y%5D&card_width=467">
-        <img alt="GitHub stats" title="Overall Stats" src="https://github-readme-stats.vercel.app/api?username=sujitsiingh&show_icons=true&text_color=2aa889&bg_color=0c1014&icon_color=599cab&title_color=599cab">
-        <br />
-        <div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=sujitsiingh&theme=onedark&column=7&margin-w=12&margin-h=12&row=1">
-        </div>
-</p> -->
+<a href="https://www.linkedin.com/in/sujit-singh-76666b236" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/sujitksiingh?t=PaL3Nzpi4afcnjVn3Y-UYA&s=09" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://instagram.com/sujitsiingh?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+  
+</p>
 
-<!-- ## Some of highlighted Repository : -->
 
-<!-- <p align="center">
-        <a href="https://github.com/sujitsiingh/DiginiqueTechLabs_Project">
-         <img alt="DigniqueTechLabs_Project" title="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=sujitsiingh&repo=DiginiqueTechLabs_Project"/>
-        </a>
-        <a href="https://github.com/sujitsiingh/KPMG_CTF">
-         <img alt="KPMG_CTF" title="Readme Card" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujitsiingh&repo=KPMG_CTF">
-        </a>
-</p> -->
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=Xaid-vfx&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
 
 ![sujitsiingh](https://img.shields.io/badge/-⭐%20From%20sujitsiingh-337AB7?&style=for-the-badge)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
